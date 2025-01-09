@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I am currently a second year computer science student. Right now I am in undertaking a <br>cybersecurity course from Google, and learning HTML-CSS. The languages I have a fundamental understanding in are Python and Java. 
+I am currently a second year computer science student. Right now I am in undertaking a cybersecurity course from Google, and learning HTML-CSS. The languages I have a fundamental understanding in are Python and Java. 
 <br>
 <br>
 I am currently looking for prospects in become an intern as a SOC analyst or in web development. I would like to also host my own portfolio website and gather experience <br>through freelancing or making side projects.
