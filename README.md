@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 # 💫 About Me:
-<hr style = "width: 80%">
 Just for a bit of context, I have a Bachelor of Medical Science (First-class Hons.) where my dissertation focused on neuroinflammation in Parkinson's Disease, modelled by a 'MPTP mice model'. The intention behind it was to analyse if there were any influence of using a novel cannabinoid receptor agonist on the degeneration of dopamine neurons. After this, I worked for the Medical Oncology Clinical Trials Unit at Westmead hospital. I found myself questioning whether if this is the right decision to make for my career. Was this something I am willing to do for the remainder of my life? I could not and liked the idea of financial liberty and choosing how I should use my time to work on things that provide me fulfilment, via emotional investment into what I am working. Caring about something and how it turns out matters. That is why I decided to go back to university to pick up some meaningful skills, in tandem with self studying, to break into the tech field as soon as possible (hopefully before graduation). 
 <br>
 <br>
