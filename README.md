@@ -3,6 +3,7 @@
 # 💫 About Me:
 Originally, I planned to be some medical science researcher and worked for Clinical trials for a fair bit. Not too fulfilled with the job, so I decided to take on a different path and study tech and fulfil a passion I have for technology. 
 <br>
+<br>
 I am currently a second year computer science student. Right now I am in undertaking a cybersecurity course from Google, and studying HTML-CSS to understand how to build websites. I want to branch out into these two fields because I find that Cybersecruity operations is an interesting field. It has a large set of governance that requires all cybersecurity analysts to understand to collaborate and defend against threats and protect user data and prevent breaches in to organisations. In addition, I want to learn website development, as I have heard it is an easy skill to learn, in comparison to the wide range of programming languages that are out there. I like tinkering and creating new things, hence why I started doing it and eventually would like this to lead up to a job. 
 <br>
 <br>
