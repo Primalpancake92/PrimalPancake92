@@ -1,4 +1,4 @@
-#Hi there
+# Hi there
 
 I am a third year computer science student at UTS, that originally graduated with a Bachelor of Medical Science (Hons. First class). 
 While working in Oncology Clinical Trials for some time, I felt like there was more to life than running through patient data, 
